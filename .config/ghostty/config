@@ -1,2 +1,4 @@
 background = #000000
 window-padding-color = extend-always
+macos-titlebar-proxy-icon = hidden
+title = " "
