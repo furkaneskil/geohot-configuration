@@ -18,3 +18,4 @@ link_config .bash_profile .bash_profile
 link_config .bashrc .bashrc
 link_config .tmux.conf .tmux.conf
 link_config .vimrc .vimrc
+link_config .config/nvim/init.vim .config/nvim/init.vim
