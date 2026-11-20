@@ -19,3 +19,4 @@ link_config .bashrc .bashrc
 link_config .tmux.conf .tmux.conf
 link_config .vimrc .vimrc
 link_config .config/nvim/init.vim .config/nvim/init.vim
+link_config .config/ghostty/config .config/ghostty/config
